@@ -1,2 +1,2 @@
 # git-scm-demo
-git demo on webapp-pune meetup
+git demo on webapp-pune meetup.
